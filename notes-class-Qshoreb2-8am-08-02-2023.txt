@@ -1,0 +1,51 @@
+    1  apt update
+    2  touch sample
+    3  ls
+    4  ls -l
+    5  vi sample
+    6  vi demo
+    7  ls
+    8  vi test
+    9  ls
+   10  cat sample
+   11  cat > sample
+   12  ls
+   13  cat sample
+   14  cat >> sample
+   15  cat sample
+   16  cat > test1
+   17  ls
+   18  cat test1
+   19  vi test1
+   20  ls --help
+   21  ls -l
+   22  ls -i
+   23  ls -s
+   24  ls -hl
+   25  du -h snap
+   26  ls
+   27  ls -r
+   28  ls -t
+   29  ls -a
+   30  touch .devops
+   31  ls
+   32  ls -a
+   33  vi .devops
+   34  ls
+   35  ls -a
+   36  ls -al
+   37  mv .devops devops
+   38  ls
+   39  mv sample .sample
+   40  ls
+   41  ls -a
+   42  rm .sample
+   43  ls -a
+   44  rm test1
+   45  ls
+   46  ls -a
+   47  ls
+   48  ls *
+   49  rm *
+   50  ls
+   51  history
